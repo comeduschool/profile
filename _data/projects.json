@@ -1,9 +1,9 @@
 [
     {
         "image": "assets/img/projects/project1.jpg",
-        "title": "My Title 01",
+        "title": "웹스크래핑 - 네이버 뉴스: 경제",
         "description": "My Description 01",
-        "link": "#"
+        "link": "https://colab.research.google.com/drive/1V7HC5jgLJnaRMTudJgYI8fEguz_PYQQT?usp=sharing"
     },
     {
         "image": "assets/img/projects/project2.jpg",
